@@ -1,0 +1,87 @@
+Examples
+Example 1.
+O(N)
+
+Example 2.
+O(N^2)
+
+Example 3.
+O(N^2)
+
+Example 4.
+O(NM)
+
+Example 5.
+O(NM)
+
+Example 6.
+O(N)
+
+Example 7.
+O(N + P), where P < N/2. Equivalent to O(N) because we only take the highest order term.
+O(2N). Equivalent to O(N), constants do not matter.
+O(N + log N). Equivalent to O(N) because we only take the highest order term.
+
+Example 8.
+O(NS (log N + log S))
+
+Example 9.
+O(N)
+
+Example 10.
+O(sqrt N)
+
+Example 11.
+O(N)
+
+Example 12.
+O(N^2 * N!)
+
+Example 13.
+O(2^N)
+
+Example 14.
+O(2^N)
+
+Example 15.
+O(N)
+
+Example 16.
+O(log N)
+
+Problems
+VI.1.
+O(b)
+
+VI.2.
+O(b)
+
+VI.3.
+O(1)
+
+VI.4.
+O(a/b)
+
+VI.5.
+O(log N)
+
+VI.6.
+O(sqrt N)
+
+VI.7.
+O(N)
+
+VI.8.
+O(N)
+
+VI.9.
+O(N^2)
+
+VI.10.
+O(log N), in this case log is in base 10
+
+VI.11.
+O(k*c^k)
+
+VI.12.
+O(log B * (A + B))
